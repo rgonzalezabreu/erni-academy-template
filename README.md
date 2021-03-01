@@ -40,11 +40,24 @@ Installation instructions {{ Name }} by running:
 
 If you have suggestions for how {{ Name }} could be improved, or want to report a bug, open an issue! We'd love all and any contributions.
 
-1. Fork it!
-1. Create your feature branch: git checkout -b my-new-feature
-1. Commit your changes: git commit -am 'Add some feature'
-1. Push to the branch: git push origin my-new-feature
-1. Submit a pull request :D
+1. **Fork** the repository to your personal Github. Forking is basically an easy way to make a duplicate of the repository to your own account.
+2. **Clone** the project to your own machine
+    ```sh
+    git clone <copied url>
+    ```
+3. Create your **Feature Branch**: 
+    ```sh
+    git checkout -b my-new-feature
+    ```
+4. **Commit** changes to your own branch: 
+    ```sh
+    git commit -m 'Add some feature'
+    ```
+5. **Push** to the branch: 
+    ```sh
+    git push origin my-new-feature
+    ```
+6. Submit a **Pull Request** so that we can review your changes
 
 This project follows a [Code of Conduct][code_of_conduct] in order to ensure an open and welcoming environment.
 

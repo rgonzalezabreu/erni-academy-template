@@ -1,5 +1,3 @@
-[code_of_conduct]: https://github.com/rgonzalezabreu/masterpiece/CODE_OF_CONDUCT.md
-
 # About {{ Name }}
 ERNI Academy StarterKit, PoC, or Gidelines. This is an about description of your repository.
 
@@ -38,32 +36,13 @@ Installation instructions {{ Name }} by running:
 
 # Contributing
 
-If you have suggestions for how {{ Name }} could be improved, or want to report a bug, open an issue! We'd love all and any contributions.
-
-1. **Fork** the repository to your personal Github. Forking is basically an easy way to make a duplicate of the repository to your own account.
-2. **Clone** the project to your own machine
-    ```sh
-    git clone <copied url>
-    ```
-3. Create your **Feature Branch**: 
-    ```sh
-    git checkout -b my-new-feature
-    ```
-4. **Commit** changes to your own branch: 
-    ```sh
-    git commit -m 'Add some feature'
-    ```
-5. **Push** to the branch: 
-    ```sh
-    git push origin my-new-feature
-    ```
-6. Submit a **Pull Request** so that we can review your changes
-
-This project follows a [Code of Conduct][code_of_conduct] in order to ensure an open and welcoming environment.
+Please see our [Contribution Guide](CONTRIBUTING.md) to learn how to contribute.
 
 # License
 
-[MIT](LICENSE) © {{ Year }} ERNI - {{ Author }}
+[MIT](LICENSE) © {{ Year }} [ERNI - Swiss Software Engineering](https://www.betterask.erni)
 
-### Contact
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+**Contact:** 
+
+{{ Your Name}}  - [@your_twitter](https://twitter.com/your_username) - your_mail
+@example.com
